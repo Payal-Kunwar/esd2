@@ -1,5 +1,7 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://myg5esd.herokuapp.com/"
+//const api_url = "https://myg5esd.herokuapp.com/"
+//const api_url = "<heroku_app_url>"
+const api_url = "http://localhost:8080/user"
 
 function loadData(records = []) {
 	var table_data = "";
