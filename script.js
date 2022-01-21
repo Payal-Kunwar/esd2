@@ -1,5 +1,5 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://myg5esd.herokuapp.com/yser"
+const api_url = "https://myg5esd.herokuapp.com/user"
 //const api_url = "<heroku_app_url>"
 //const api_url = "localhost:8080/user"
 
